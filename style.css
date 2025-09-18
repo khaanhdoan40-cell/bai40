@@ -1,0 +1,17 @@
+div {
+  width: 100px;
+  height: 100px;
+  color: yellow;
+  background-color: red;
+  /* padding: 20px; */
+  /* padding-top: 20px; */
+  /* padding-left: 20px; */
+  /* padding-right: 20px; */
+  /* padding-bottom: 20px;
+  padding-top: 10px;
+  padding-left: 15px; */
+
+  padding: 20px 30px;
+  padding: 20px 30px 40px;
+  padding: 20px 30px 40px 50px;
+}
