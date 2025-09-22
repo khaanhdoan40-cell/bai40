@@ -14,4 +14,24 @@ div {
   padding: 20px 30px;
   padding: 20px 30px 40px;
   padding: 20px 30px 40px 50px;
+
+  /* Viền border */
+  /* border-top: 10px groove rgb(13, 218, 116); */
+  /* border-bottom: 10px ridge pink;
+  border-top: 10px ridge rgb(30, 190, 25);
+  border-bottom: 10px ridge pink;
+  border-bottom: 10px ridge pink; */
+  /* border-width: 10px 20px 30px 10px;
+  border-style: solid double groove dashed;
+  border-color: pink rgb(84, 16, 243) yellow green; */
+  border: 10px solid rgb(28, 236, 28);
+  /* bo cả 4 hướng */
+  /* border-radius: 30px; */
+
+  /* border-top-left-radius: 10px;
+  border-top-right-radius: 40px;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 70px; */
+
+  border-radius: 30px 50px 80px 75px;
 }
